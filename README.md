@@ -5,7 +5,7 @@
 </div>
 <h3>Install :</h3>
 pkg install php git<br>
-git clone https://github.com/dz-id/SimpleSpamOtp
+git clone https://github.com/sandiwijayani1/SimpleSpamOtp
 <h3>Run :</h3>
 cd SimpleSpamOtp<br>
 php s-SpamOtp.php
