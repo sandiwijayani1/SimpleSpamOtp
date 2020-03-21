@@ -20,7 +20,7 @@ echo " \e[96m\n\n
 /___/   /___/ .__/\_,_/_/_/_/  \____/\__/ .__/
            /_/                         /_/    \e[0m
 \e[92m*-------------------------------------------*\e[0m
-  Author   : DulLah
+  Author   : DulLah Sandi
   Github   : https://github.com/dz-id
   Telegram : https://t.me/unikers
   Date     : 26-01-2020
