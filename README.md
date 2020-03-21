@@ -1,7 +1,7 @@
 <div>
 <h1>Simple Spam OTP</h1>
 <div>
-<img src="https://github.com/dz-id/SimpleSpamOtp/blob/master/ss.jpg"/>
+<img src="#"/>
 </div>
 <h3>Install :</h3>
 pkg install php git<br>
